@@ -1,1 +1,1 @@
-life = not easy.
+life = very easy.
